@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Dcraft",
+  "name": "DUSKcraft",
+  "description": "A mod that is inspired by enemies, textures and weapons from DUSK.",
+  "version": "${0.5.0}",
+  "mcversion": "${1.7.10}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Horrorbro"],
+  "credits": "The people that inspired me to learn how to code (and 70k)",
+  "logoFile": "dcraftlogo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
